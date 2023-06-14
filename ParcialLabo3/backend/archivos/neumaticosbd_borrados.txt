@@ -1,0 +1,11 @@
+{"id":25,"marca":"Matias","medidas":"30x30","precio":745964,"pathFoto":".\/neumaticosBorrados\/25.Matias.borrado.png"}
+{"id":27,"marca":"BridgeStone","medidas":"195-55-R16","precio":259008,"pathFoto":".\/neumaticosBorrados\/27.BridgeStone.borrado.png"}
+{"id":29,"marca":"Marcosss","medidas":"20x20","precio":34728903,"pathFoto":".\/neumaticosBorrados\/29.Marcosss.borrado.png"}
+{"id":30,"marca":"Pirelli","medidas":"20x20","precio":4564654,"pathFoto":".\/neumaticosBorrados\/30.Pirelli.borrado.png"}
+{"id":31,"marca":"Pirelli","medidas":"20x20","precio":4564654,"pathFoto":".\/neumaticosBorrados\/31.Pirelli.borrado.png"}
+{"id":32,"marca":"Pirelli","medidas":"20x20","precio":4564654,"pathFoto":".\/neumaticosBorrados\/32.Pirelli.borrado.png"}
+{"id":33,"marca":"Pirelli","medidas":"20x20","precio":4564654,"pathFoto":".\/neumaticosBorrados\/33.Pirelli.borrado.png"}
+{"id":34,"marca":"Pirelli","medidas":"20x20","precio":4564654,"pathFoto":".\/neumaticosBorrados\/34.Pirelli.borrado.png"}
+{"id":35,"marca":"Pirelli","medidas":"20x20","precio":4564654,"pathFoto":".\/neumaticosBorrados\/35.Pirelli.borrado.png"}
+{"id":37,"marca":"Pirelli","medidas":"20x20","precio":4564654,"pathFoto":".\/neumaticosBorrados\/37.Pirelli.borrado.png"}
+{"id":26,"marca":"Marcos","medidas":"2ox20","precio":34728903,"pathFoto":".\/neumaticosBorrados\/26.Marcos.borrado.png"}
